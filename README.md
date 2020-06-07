@@ -14,9 +14,31 @@ transcription factor.
 # MODELS USED
 
 Ridge Regression
+
 Kernel Ridge Regression
+
 Naive Bayes Model
+
 Logistic Regression
+
 Kernel Logistic Regression
+
 Weighted Kernel Logistic Regression
+
+Kernel Support Vector Machine
+
+# KERNELS IMPLIMENTED 
+
+Ridge Regression
+
+Kernel Ridge Regression
+
+Naive Bayes Model
+
+Logistic Regression
+
+Kernel Logistic Regression
+
+Weighted Kernel Logistic Regression
+
 Kernel Support Vector Machine
