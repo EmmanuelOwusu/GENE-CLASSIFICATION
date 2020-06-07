@@ -11,6 +11,14 @@ The main task of this project is to classify gene sequence: thus
 predicting whether a DNA sequence region is binding site to a specific
 transcription factor.
 
+# DATA SET
+
+The data is of two form: the principal files and the optional files.
+
+The principal files contain data that has 2000 training points and
+1000 test sequence.
+
+
 # MODELS USED
 
 Ridge Regression
