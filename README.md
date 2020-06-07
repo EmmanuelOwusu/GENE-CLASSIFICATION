@@ -21,32 +21,32 @@ The principal files contain data that has 2000 training points and
 
 # MODELS USED
 
-Ridge Regression
+1. Ridge Regression
 
-Kernel Ridge Regression
+2. Kernel Ridge Regression
 
-Naive Bayes Model
+3. Naive Bayes Model
 
-Logistic Regression
+4. Logistic Regression
 
-Kernel Logistic Regression
+5. Kernel Logistic Regression
 
-Weighted Kernel Logistic Regression
+6. Weighted Kernel Logistic Regression
 
-Kernel Support Vector Machine
+7. Kernel Support Vector Machine
 
 # KERNELS IMPLIMENTED 
 
 Ridge Regression
 
-Kernel Ridge Regression
+1. Kernel Ridge Regression
 
-Naive Bayes Model
+2. Naive Bayes Model
 
-Logistic Regression
+3. Logistic Regression
 
-Kernel Logistic Regression
+4. Kernel Logistic Regression
 
-Weighted Kernel Logistic Regression
+5. Weighted Kernel Logistic Regression
 
-Kernel Support Vector Machine
+6. Kernel Support Vector Machine
