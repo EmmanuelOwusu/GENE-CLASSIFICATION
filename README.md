@@ -37,15 +37,14 @@ The principal files contain data that has 2000 training points and
 
 # KERNELS IMPLIMENTED 
 
-Ridge Regression
+1. Linear Kernel
 
-1. Kernel Ridge Regression
+2. Quadratic Kernel
 
-2. Naive Bayes Model
+3. Polynomial Kernel
 
-3. Logistic Regression
+4. Exponential Kernel
 
-4. Kernel Logistic Regression
+5. Radial Basis Kernel (RBF)
 
-5. Weighted Kernel Logistic Regression
-
+6. Laplacian Kernel
