@@ -49,4 +49,3 @@ Ridge Regression
 
 5. Weighted Kernel Logistic Regression
 
-6. Kernel Support Vector Machine
