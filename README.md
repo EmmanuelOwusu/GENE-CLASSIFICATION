@@ -48,3 +48,14 @@ The principal files contain data that has 2000 training points and
 5. Radial Basis Kernel (RBF)
 
 6. Laplacian Kernel
+
+# RESULT AND FINDING
+
+* On the Private score, the three best accuracies are: 0.684, 0.662 and
+0.648 which were obtained by kernel logistic regression (polynomial
+kernel), Kernel ridge Regression(Polynomial kernel) and SVM with
+RBF kernel respectively.
+
+* This indicates that, these kernels work well on the data set.
+
+* In addition, simple models performed better than SVM in general.
