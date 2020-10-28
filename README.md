@@ -58,4 +58,4 @@ RBF kernel respectively.
 
 * This indicates that, these kernels work well on the data set.
 
-* In addition, simple models performed better than SVM in general.
+* In addition, simple models performed better than Support VM in general.
