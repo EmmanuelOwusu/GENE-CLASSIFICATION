@@ -1,5 +1,5 @@
 # GENE-CLASSIFICATION
-This is an in class kaggle competition in Kernel Method for Machine Learning at AMMI
+This is an in class Kaggle Competition in Kernel Method for Machine Learning at AMMI
 
 
 # INTRODUCTION
