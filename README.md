@@ -56,6 +56,6 @@ The principal files contain data that has 2000 training points and
 kernel), Kernel ridge Regression(Polynomial kernel) and SVM with
 RBF kernel respectively.
 
-* This indicates that, these kernels work well on the data set.
+* This indicates that, these Kernels work well on the data set.
 
 * In addition, simple models performed better than Support Vector Machine (SVM) in general.
